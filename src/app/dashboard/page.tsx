@@ -1,4 +1,4 @@
-"use client";
+ "client";
 import { getToken } from "@/lib/auth";
 import { jwtDecode } from "jwt-decode";
 import React from "react";
